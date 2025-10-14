@@ -1,13 +1,16 @@
 # 👋 Hola, soy Franco Torrico 
 
-### 🛠️ Sobre mi:
 
-💻 Backend Developer apasionado por crear sistemas sólidos, escalables y bien estructurados.
-Trabajo principalmente con Node.js, Express, y bases de datos MySQL / PostgreSQL.
-También manejo contenedores con Docker y disfruto diseñar APIs limpias y mantenibles.
-Actualmente estudio una Tecnicatura en Desarrollo de Software mientras soy autodidacta, siempre buscando mejorar y aprender nuevas tecnologías.
-### 🛠️ Proyectos Destacados:
+## 💻 Backend Developer | 🚀 Autodidacta & Estudiante de Software  
 
+Me especializo como **Backend Developer** apasionado por crear sistemas **sólidos y escalables**.  
+Trabajo principalmente con **Node.js**, **Express**, y bases de datos **MySQL** / **PostgreSQL**.  
+
+🛠️ También me gusta armar entornos limpios con **Docker**, diseñar **APIs bien estructuradas**  
+y optimizar cada línea de código para que el backend fluya como debe.  
+
+📘 Estudio una **Tecnicatura en Desarrollo de Software** y sigo aprendiendo por cuenta propia,  
+porque creo que el mejor código nace de la **curiosidad y la práctica constante**. 
 
 ### 🛠️ Tecnologías y Herramientas:
 <br>
