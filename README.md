@@ -1,7 +1,7 @@
 # 👋 Hola, soy Franco Torrico 
 
 
-## 💻 Backend Developer | 🚀 Autodidacta & Estudiante de Software  
+## 💻 Backend Developer | 🚀 Estudiante de Software & Autodidacta 
 
 Me especializo como **Backend Developer** apasionado por crear sistemas **sólidos y escalables**.  
 Trabajo principalmente con **Node.js**, **Express**, y bases de datos **MySQL** / **PostgreSQL**.  
