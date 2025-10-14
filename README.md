@@ -12,7 +12,7 @@ y optimizar cada línea de código para que el backend fluya como debe.
 📘 Estudio una **Tecnicatura en Desarrollo de Software** y sigo aprendiendo por cuenta propia,  
 porque creo que el mejor código nace de la **curiosidad y la práctica constante**. 
 
-### 🛠️ Tecnologías y Herramientas:
+## 🛠️ Tecnologías y Herramientas:
 <br>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -55,7 +55,7 @@ porque creo que el mejor código nace de la **curiosidad y la práctica constant
   </a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analíticas:
+## ⚙️ &nbsp;GitHub Analíticas:
 ###
 <br>
 <div align="center">
@@ -65,7 +65,7 @@ porque creo que el mejor código nace de la **curiosidad y la práctica constant
 
 ###
 
-### 🌱 Actualmente aprendiendo
+## 🌱 Actualmente aprendiendo
 - Integración backend + frontend con **React**
 - Mejores prácticas en **arquitectura de APIs**
 - **CI/CD**
@@ -73,4 +73,7 @@ porque creo que el mejor código nace de la **curiosidad y la práctica constant
 - Automtizaciones con n8n 
 
 
-### ⚙️ &nbsp;Contactame:
+## 📫 &nbsp;Contactame:
+  
+💼 **LinkedIn:** [Franco Torrico](https://www.linkedin.com/in/franco-torrico-/)  
+📧 **Correo:** [francotorricoein3@gmail.com](mailto:francotorricoein3@gmail.com)  
