@@ -12,6 +12,35 @@ y optimizar cada línea de código para que el backend fluya como debe.
 📘 Estudio una **Tecnicatura en Desarrollo de Software** y sigo aprendiendo por cuenta propia,  
 porque creo que el mejor código nace de la **curiosidad y la práctica constante**. 
 
+## 🚀 Proyectos Destacados
+
+### 🗨️ Bolu-Chat
+Chat en tiempo real con autenticación, Socket.io y Node.js.  
+Comunicación fluida entre usuarios y arquitectura modular.  
+
+<p align="center">
+  <a href="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce" target="_blank">
+    <img src="https://github.com/TorricoFranco/Bolu-Chat/blob/main/assets/banner_bolu-chat.png" 
+         alt="Banner del E-commerce" width="300" style="border-radius: 10px;"/>
+  </a>
+</p>
+
+
+---
+
+
+### 🛒 E-commerce con Docker
+API REST para e-commerce desarrollada con Express y MySQL,  
+contenedorizada con Docker y organizada en microservicios.  
+
+<p align="center">
+  <a href="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce" target="_blank">
+    <img src="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce/blob/main/assets/banner-ecommerse.png?raw=true" 
+         alt="Banner del E-commerce" width="300" style="border-radius: 10px;"/>
+  </a>
+</p>
+
+
 ## 🛠️ Tecnologías y Herramientas:
 <br>
 <p align="center">
