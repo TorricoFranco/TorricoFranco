@@ -19,9 +19,9 @@ Chat en tiempo real con autenticación, Socket.io y Node.js.
 Comunicación fluida entre usuarios y arquitectura modular.  
 
 <p align="center">
-  <a href="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce" target="_blank">
+  <a href="https://github.com/TorricoFranco/Bolu-Chat" target="_blank">
     <img src="https://github.com/TorricoFranco/Bolu-Chat/blob/main/assets/banner_bolu-chat.png" 
-         alt="Banner del E-commerce" width="300" style="border-radius: 10px;"/>
+         alt="Banner de Bolu-Chat" width="300" style="border-radius: 10px;"/>
   </a>
 </p>
 
