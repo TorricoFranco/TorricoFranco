@@ -1,108 +1,107 @@
-# 👋 Hola, soy Franco Torrico 
+# 👋 Hola, soy Franco Torrico
 
+## 💻 Backend Developer | Java · Spring Boot · Node.js · TypeScript
 
-## 💻 Backend Developer | 🚀 Estudiante de Software & Autodidacta 
+Me especializo en **backend**: APIs bien estructuradas, bases de datos sólidas y sistemas que se puedan probar y operar.  
+Trabajo con **Java + Spring Boot** y con **Node.js / NestJS + TypeScript**, sobre **PostgreSQL**, y armo los entornos con **Docker** y **GitHub Actions**.
 
-Me especializo como **Backend Developer** apasionado por crear sistemas **sólidos y escalables**.  
-Trabajo principalmente con **Node.js**, **Express**, y bases de datos **MySQL** / **PostgreSQL**.  
+📘 Estudio una **Tecnicatura en Desarrollo de Software** y sigo aprendiendo por mi cuenta,  
+porque creo que el mejor código nace de la **curiosidad y la práctica constante**.
 
-🛠️ También me gusta armar entornos limpios con **Docker**, diseñar **APIs bien estructuradas**  
-y optimizar cada línea de código para que el backend fluya como debe.  
+## 🚀 Proyectos destacados
 
-📘 Estudio una **Tecnicatura en Desarrollo de Software** y sigo aprendiendo por cuenta propia,  
-porque creo que el mejor código nace de la **curiosidad y la práctica constante**. 
+### 🎫 ops-engine
+Motor de ruteo de tickets de soporte. Quise probar si una IA sirve para decidir a quién asignar cada ticket: la evalué offline contra una línea base, midiendo los errores silenciosos. La conclusión fue que sirve para **estimar** la competencia que hace falta, pero no para **decidir** sola. Por eso el modelo estima, el código decide y, ante la duda, el ticket espera a una persona.
 
-## 🚀 Proyectos Destacados
-
-### 🗨️ Bolu-Chat
-Chat en tiempo real con autenticación, Socket.io y Node.js.  
-Comunicación fluida entre usuarios y arquitectura modular.  
+**Stack:** Java 21, Spring Boot, arquitectura hexagonal, PostgreSQL + Flyway, Spring Security (JWT), Resilience4j, Testcontainers, Prometheus + Grafana, Next.js + TypeScript.
 
 <p align="center">
-  <a href="https://github.com/TorricoFranco/Bolu-Chat" target="_blank">
-    <img src="https://github.com/TorricoFranco/Bolu-Chat/blob/main/assets/banner_bolu-chat.png" 
-         alt="Banner de Bolu-Chat" width="300" style="border-radius: 10px;"/>
+  <a href="https://github.com/TorricoFranco/ops-engine" target="_blank">
+    <img src="https://raw.githubusercontent.com/TorricoFranco/ops-engine/main/docs/img/consola-panel.png"
+         alt="Panel de operaciones de ops-engine" width="700"/>
   </a>
 </p>
-
 
 ---
 
+### ⚽ ChiquiMafias
+Plataforma de fútbol argentino en tiempo real, en producción en [chiquimafias.com](https://chiquimafias.com): chat, datos en vivo, pronósticos con monedas virtuales y suscripciones con Mercado Pago.
+Billetera sin doble gasto, webhooks idempotentes y tiempo real con Socket.IO y Redis Pub/Sub.
 
-### 🛒 E-commerce con Docker
-API REST para e-commerce desarrollada con Express y MySQL,  
-contenedorizada con Docker y organizada en microservicios.  
+**Stack:** TypeScript, NestJS, Prisma, PostgreSQL, Redis, BullMQ, Socket.IO, Next.js, React, Docker.
 
 <p align="center">
-  <a href="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce" target="_blank">
-    <img src="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce/blob/main/assets/banner-ecommerse.png?raw=true" 
-         alt="Banner del E-commerce" width="300" style="border-radius: 10px;"/>
+  <a href="https://github.com/TorricoFranco/ChiquiMafias" target="_blank">
+    <img src="https://raw.githubusercontent.com/TorricoFranco/ChiquiMafias/main/docs/screenshots/apuestas-view-pc.png"
+         alt="Vista de ChiquiMafias" width="700"/>
   </a>
 </p>
 
+---
 
-## 🛠️ Tecnologías y Herramientas:
-<br>
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white">
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express" src="https://img.shields.io/badge/express-000000?logo=express&logoColor=white">
-  </a>
-  <a href="https://socket.io/" target="_blank">
-    <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
-  </a>
-  <br>
-  <a href="https://www.docker.com/" target="_blank">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-  </a>
-  <br>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=white">
-  </a>
+### ☁️ estadisticas-serverless
+API serverless de estadísticas de fútbol en AWS: ingesta de CSV con validación, tabla de posiciones y resúmenes por partido. Infraestructura como código con AWS CDK. *(En desarrollo.)*
+
+**Stack:** Python 3.12, AWS CDK, pytest, moto, GitHub Actions. → [Ver repo](https://github.com/TorricoFranco/estadisticas-serverless)
+
+---
+
+### 🗂️ Proyectos anteriores
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/TorricoFranco/Bolu-Chat" target="_blank">
+        <img src="https://raw.githubusercontent.com/TorricoFranco/Bolu-Chat/main/assets/banner_bolu-chat.png" alt="Bolu-Chat" width="100%"/>
+      </a>
+      <br><b>🗨️ Bolu-Chat</b><br>
+      Chat en tiempo real con Node.js, Express, Socket.IO y MySQL. Autenticación con JWT y refresh tokens.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/TorricoFranco/Simulador-estructura-Ecommerce" target="_blank">
+        <img src="https://raw.githubusercontent.com/TorricoFranco/Simulador-estructura-Ecommerce/main/assets/banner-ecommerse.png" alt="Simulador de e-commerce" width="100%"/>
+      </a>
+      <br><b>🛒 Simulador de e-commerce</b><br>
+      Microservicios con Docker que se comunican por eventos con RabbitMQ.
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tecnologías y herramientas
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,ts,js,py" alt="Backend" />
 </p>
 
-## ⚙️ &nbsp;GitHub Analíticas:
-###
-<br>
+**Bases de datos**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="Bases de datos" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Frontend" />
+</p>
+
+**Infraestructura, testing y observabilidad**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,rabbitmq,prometheus,grafana,jest,git" alt="Infraestructura" />
+</p>
+
+## ⚙️ GitHub analíticas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Torricofranco&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorricoFranco&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TorricoFranco&theme=merko&include_all_commits=true&count_private=false" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorricoFranco&theme=merko&layout=compact" height="150" alt="Lenguajes más usados" />
 </div>
 
-###
-
 ## 🌱 Actualmente aprendiendo
-- Integración backend + frontend con **React**
+- Despliegue serverless en **AWS** con CDK
+- Automatizaciones con **n8n**
 - Mejores prácticas en **arquitectura de APIs**
-- **CI/CD**
-- TypesScript + Express
-- Automtizaciones con n8n 
 
+## 📫 Contactame
 
-## 📫 &nbsp;Contactame:
-  
 💼 **LinkedIn:** [Franco Torrico](https://www.linkedin.com/in/franco-torrico-/)  
-📧 **Correo:** [francotorricoein3@gmail.com](mailto:francotorricoein3@gmail.com)  
+📧 **Correo:** [francotorricoein3@gmail.com](mailto:francotorricoein3@gmail.com)
